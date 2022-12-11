@@ -1,0 +1,11 @@
+{
+  "name": "zankoocode NFT",
+  "description": "zankoocode logo",
+  "image": "https://ipfs.io/ipfs/Qmer95eyw9njoJMFo284Vw2NvduJR534GxGJBThV69hqC7",
+  "attributes": [
+    {
+      "trait_type": "logo",
+      "value": "zankoocode"
+    }
+  ]
+}
